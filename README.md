@@ -12,7 +12,8 @@ IMPORTANT: This tool is designed strictly for educational purposes and security 
 - The developers assume no liability for misuse of this software
 
 
-<img width="1911" height="913" alt="Image" src="https://github.com/user-attachments/assets/484c3b1d-5a9f-446b-ab33-e5e01ccb002b" />
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/0d27b0e6-bf47-4a08-9832-8dca33f98c76" />
+
 
 
 ## How To Use :
@@ -23,14 +24,18 @@ IMPORTANT: This tool is designed strictly for educational purposes and security 
 -Review detailed results with severity levels
 
 Example URLs to test:
-https://example.com/page
-http://example.com/xyz
+https://google.com
+https://torqtoken.netlify.app/
 
 ### Safe URL 1 :
 
-<img width="1884" height="911" alt="Image" src="https://github.com/user-attachments/assets/41dbadd9-d15c-4a91-8119-3f9c70cb6eb4" />
+<img width="1905" height="906" alt="image" src="https://github.com/user-attachments/assets/a6bf0a98-9237-43ee-8520-03796da42d0e" />
 
-<img width="1882" height="915" alt="Image" src="https://github.com/user-attachments/assets/f2cdde6e-a3ea-4bbb-8a09-6a2405dc564e" />
+<img width="1904" height="940" alt="image" src="https://github.com/user-attachments/assets/4fdaf269-2ff7-4e66-b52c-20e5965e9680" />
+
+<img width="1901" height="945" alt="image" src="https://github.com/user-attachments/assets/d5a40e73-da50-41ea-8d7c-80dba580ffcb" />
+
+<img width="1903" height="640" alt="image" src="https://github.com/user-attachments/assets/87687998-c26f-4cbd-a16d-de2d0ac25797" />
 
 
 ### Safe URL 2 :
