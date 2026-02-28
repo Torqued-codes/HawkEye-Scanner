@@ -40,8 +40,7 @@ https://torqtoken.netlify.app/
 
 ### Safe URL 2 :
 
-<img width="1886" height="918" alt="Image" src="https://github.com/user-attachments/assets/3e76447c-07fa-40b7-bc6a-cfa713d88b01" />
-
+<img width="1903" height="905" alt="image" src="https://github.com/user-attachments/assets/c6db15a9-c887-425d-b2cf-4411d95ff931" />
 <img width="1887" height="915" alt="Image" src="https://github.com/user-attachments/assets/cc2830d9-6150-4caa-8ae6-651655858659" />
 
 
